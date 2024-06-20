@@ -1,0 +1,3 @@
+Thirty-one patients were randomized 1:1 to receive either placebo (N=17) or XOLREMDI (N=14) once daily for 52 weeks. The efficacy of XOLREMDI in the treatment of patients with WHIM syndrome was based on improvement in absolute neutrophil counts (ANC), improvement in absolute lymphocyte counts (ALC), and a reduction in infections.
+
+For ANC, the mean time (hours) above ANC threshold (TATANC) of 500 cells/μL over a 24-hour period was assessed 4 times throughout the study (every 3 months for 12 months). The results over the 52- week period showed that TATANC was statistically significantly greater in patients treated with XOLREMDI (LS mean [SE] 15.0 [1.89] hours) compared with placebo (2.8 [1.52] hours) (p value <0.0001) (see Table 3 and Figure 2).
